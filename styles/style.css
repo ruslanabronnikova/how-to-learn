@@ -369,6 +369,7 @@
 .footer__column_content_info{
   margin: 0;
   display: block;
+  color: #f2f2f2;
 }
 
 .footer__column_content_social{
@@ -376,7 +377,7 @@
   display: block;
 }
 
-.footer__colum-heading{
+.footer__column-heading{
   font-size: 18px;
   line-height: 30px;
   font-weight: 600;
